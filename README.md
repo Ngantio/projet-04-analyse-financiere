@@ -1,6 +1,6 @@
 # Projet 4 — Analyse Financière & Marchés Boursiers 📈
 
-## 🚀 Demo live
+##  Demo live
 👉 [Accéder au dashboard](https://projet-04-analyse-financiere-mb4hamcfa5cppbczhynazm.streamlit.app/)
 
 ## Contexte
@@ -35,10 +35,10 @@ et la diversification à l'aide de métriques financières standards.
 | 🔗 | AAPL-MSFT affichent la plus forte corrélation (0.69) — peu de diversification réelle entre les deux |
 
 ## Stack technique
-![Python](https://img.shields.io/badge/Python-3.10-blue)
-![yfinance](https://img.shields.io/badge/yfinance-data-green)
-![Streamlit](https://img.shields.io/badge/Streamlit-1.51-red)
-![Plotly](https://img.shields.io/badge/Plotly-6.3-blue)
+![Python]
+![yfinance]
+![Streamlit]
+![Plotly]
 
 ## Structure du repo
 ```
@@ -54,5 +54,5 @@ Ce projet a servi de validation technique pour les métriques financières
 (Sharpe ratio, volatilité, corrélation) destinées à [FinSight Africa](https://finsight-six-alpha.vercel.app/),
 une plateforme d'analyse financière pour les marchés africains.
 
-## Auteure
+## Auteur
 **Shanice Marvin Tiogang** · Business Analytics & Data Science · Tunis
