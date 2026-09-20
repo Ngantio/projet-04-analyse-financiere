@@ -35,10 +35,10 @@ et la diversification à l'aide de métriques financières standards.
 | 🔗 | AAPL-MSFT affichent la plus forte corrélation (0.69) — peu de diversification réelle entre les deux |
 
 ## Stack technique
-![Python]
-![yfinance]
-![Streamlit]
-![Plotly]
+[Python]
+[yfinance]
+[Streamlit]
+[Plotly]
 
 ## Structure du repo
 ```
